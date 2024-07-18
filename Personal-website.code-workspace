@@ -1,14 +1,11 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../../../davidbr4gg.github.io-master/assets"
-		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Personal-website",
-		"liveServer.settings.port": 5501
-	}
+    "folders": [
+        {
+            "name": "Personal-website",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Personal-website"
+    }
 }
