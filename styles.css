@@ -505,7 +505,7 @@ footer {
   .footer__anchor {
     transform: translateY(-20px);
   }
-  footer {
+  .footer__row {
     height: 200px;
   }
 }
