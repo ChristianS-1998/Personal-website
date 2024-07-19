@@ -206,9 +206,10 @@ nav {
   align-items: center;
 }
 
-.about-me__img {
+.about-me__picture {
   max-width: 100%;
-  padding: 5%;
+  scale: 1.35;
+  transform: translateX(10px);
 }
 
 
