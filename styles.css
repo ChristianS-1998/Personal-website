@@ -477,13 +477,13 @@ footer {
   }
 
   .project__wrapper {
-    display: flex;
+    
     border-radius: 8px;
     box-shadow: 20px 20px 5px rgba(0, 0, 0, 0.16);
   }
 
   .footer__social--list {
-    transform: translateY(30px);
+    transform: translateY(40px);
   }
 
   .about-me__img--container,
@@ -500,6 +500,9 @@ footer {
   }
 
   body:not(:nth-child(even)) {
-    margin: 0 16px;
+    margin: 0 8px;
+  }
+  .footer__anchor {
+    transform: translateY(-20px);
   }
 }
